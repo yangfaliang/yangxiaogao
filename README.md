@@ -1,3 +1,7 @@
 # yangxiaogao
 我的世界我做主
-Creating a new branch is quick & simple
+<<<<<<< HEAD
+Creating a new branch is quick and simple
+=======
+Creating a new branch is quick and simple
+>>>>>>> featurel
